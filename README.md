@@ -2,7 +2,7 @@
 
 A full-stack, AI-powered nutrition logging web app that lets you log meals in plain English, automatically parses nutrients via OpenAI, and keeps a persistent history with customizable daily/weekly goals.
 
-![NutritionTracker Screenshot](docs/screenshot.png)
+
 
 ## Features
 
@@ -23,9 +23,7 @@ A full-stack, AI-powered nutrition logging web app that lets you log meals in pl
 
 - **Light & dark themes** via Material-UI (MUI) toggle.
 
-## Demo
 
-![History Page](docs/history.png)
 
 ## Tech Stack
 
