@@ -1,0 +1,40 @@
+{
+  "history": [
+    {
+      "id": 1,
+      "date": "2025-07-05",
+      "calories": 690,
+      "protein": 85,
+      "carbs": 48,
+      "fat": 14,
+      "tips": "A well-balanced meal with lean protein, complex carbs, and fiber-rich vegetables."
+    },
+    {
+      "id": 2,
+      "date": "2025-07-05",
+      "calories": 350,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 20,
+      "tips": "Enjoying treats in moderation is key to a balanced diet."
+    },
+    {
+      "id": 3,
+      "date": "2025-07-05",
+      "calories": 150,
+      "protein": 1,
+      "carbs": 20,
+      "fat": 7,
+      "tips": "Consider opting for whole grain biscuits for added fiber and nutrients."
+    },
+    {
+      "id": 4,
+      "date": "2025-07-05",
+      "calories": 189,
+      "protein": 2,
+      "carbs": 48,
+      "fat": 1,
+      "tips": "Great choice! Fruits are a healthy and nutritious snack option. Make sure to stay hydrated throughout the day."
+    }
+  ]
+}
